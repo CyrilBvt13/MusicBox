@@ -25,6 +25,7 @@ void setup() {
   player.begin();
   delay(100);
   player.setVolume(20); // 30 = 100% Volume
+  player.setCycleMode(DY::PlayMode::Sequence);
 }
 
 void loop() {
