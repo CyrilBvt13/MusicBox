@@ -26,7 +26,7 @@ Le haut-parleur est branché directement sur la carte DY-SV5W sur les pins corre
 
 ![MusicPlayer-Circuit](https://github.com/user-attachments/assets/a907e579-9a7c-4cf4-a733-707012d8483d)
 
-##Principe :
+## Principe :
 
 Vous pouvez déposer sur la carte SD introduite dans la carte DY-SV5W toutes les musiques souhaitées. Elles doivent être nommées 00001.mp3, 00002.mp3, ..., 0000N.mp3.
 
