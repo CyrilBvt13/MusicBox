@@ -1,12 +1,12 @@
 # Licence d'Utilisation Privée
 Nom du projet: MusicBox
 
-Auteur: Cyril BOUVART
+Auteur: CyrilBvt13
 
 Date: 01/08/2024
 
 1. Propriété et Droits d'Auteur
-Ce projet et tout son contenu (code, documentation, fichiers, etc.) sont la propriété exclusive de Cyril BOUVART ("l'Auteur"). Tous les droits, y compris les droits d'auteur, sont réservés par l'Auteur.
+Ce projet et tout son contenu (code, documentation, fichiers, etc.) sont la propriété exclusive de CyrilBvt13 ("l'Auteur"). Tous les droits, y compris les droits d'auteur, sont réservés par l'Auteur.
 
 2. Utilisation Privée
 Ce projet est mis à disposition sur un repository public de GitHub à titre de référence personnelle. Il n'est pas destiné à un usage commercial, éducatif ou autre sans l'autorisation expresse de l'Auteur.
