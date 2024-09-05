@@ -1,6 +1,6 @@
 # MusicBox
 
-Attention ce projet est sous licence d'utilisation privée. Ce projet et tout son contenu (code, documentation, fichiers, etc.) sont la propriété exclusive de CyrilBvt13. Tous les droits, y compris les droits d'auteur, sont réservés par CyrilBvt13.
+***Attention ce projet est sous licence d'utilisation privée. Ce projet et tout son contenu (code, documentation, fichiers, etc.) sont la propriété exclusive de CyrilBvt13. Tous les droits, y compris les droits d'auteur, sont réservés par CyrilBvt13.***
 
 ## Schéma électronique :
 
