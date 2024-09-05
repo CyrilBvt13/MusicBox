@@ -1,14 +1,5 @@
 # MusicBox
 
-## Materiel nécessaire :
-- Arduino Nano
-- Carte lecteur MP3 DY-SV8F : https://fr.aliexpress.com/item/1005006004906852.html
-- Batterie 18650 + son shield : https://fr.aliexpress.com/item/1005005986332436.html
-- Haut-parleur 8 ohm : https://fr.aliexpress.com/item/1005005996218176.html
-- Boutons poussoirs : https://amzn.eu/d/bjFC2hP
-- Un switch on/off : https://fr.aliexpress.com/item/1005003938856402.html
-- Des vis M3 : https://fr.aliexpress.com/item/1005005685840925.html
-
 ## Schéma électronique :
 
 Il y a 5 boutons :
